@@ -1,9 +1,10 @@
 # Portfolio1
 Rough draft of a project portfolio 
+This is a pretty rough first draft as I ran out of time with this project, there will be more commits coming soon. 
 
 Photos are from https://unsplash.com/s/photos/technology
-Help for the navigation bar comes from Kevin Powell's Youtube Channel 
+Help for the navigation bar comes from Kevin Powell's Youtube Channel https://www.youtube.com/watch?v=FEmysQARWFU
 
-I ran out of time with this project, this is a first draft that will be getting updated as soon as I can. 
+Deployed Application = 
 
 ![Portfolio](https://user-images.githubusercontent.com/84287535/123532559-c1a21300-d6d3-11eb-998c-a1beb89c626e.PNG)
